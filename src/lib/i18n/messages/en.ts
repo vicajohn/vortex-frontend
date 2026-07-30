@@ -69,4 +69,11 @@ export const en = {
   "notFound.title": "Page not found",
   "notFound.body": "The page you're looking for doesn't exist, or may have moved.",
   "notFound.backHome": "← Back to Vortex",
+
+  "nav.branding": "Vortex",
+  "nav.explore": "Explore",
+  "nav.becomeSolver": "Become a Solver",
+  "nav.docs": "Docs",
+  "nav.openMenu": "Open menu",
+  "nav.closeMenu": "Close menu",
 } as const;
